@@ -4074,8 +4074,8 @@
 			)
 		)
 	)
-	(gr_text "BATTERY - 3.3V"
-		(at 137.63 100.33 90)
+	(gr_text "SSD BAT - 3.3V r.${REVISION}"
+		(at 137.63 100.1 90)
 		(layer "F.SilkS")
 		(uuid "f6bd9a43-b0b8-4ede-b2b6-0bdbede9bc9c")
 		(effects

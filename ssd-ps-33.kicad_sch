@@ -1493,7 +1493,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Vout = 0.6V * (1 + 135k/30k) = 3.3V"
+	(text "Vout = 0.6V * (1 + 120k/26.7k) = 3.3V"
 		(exclude_from_sim no)
 		(at 215.9 116.84 0)
 		(effects
@@ -3170,7 +3170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 101.6 116.84 0)
 			(effects
 				(font
@@ -3188,7 +3188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 101.6 116.84 0)
 			(effects
 				(font
@@ -3197,7 +3197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-0727KL"
 			(at 101.6 116.84 0)
 			(effects
 				(font
@@ -3266,7 +3266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "3A Synchronous Buck Converter, Adjustable Output Voltage, 3-17V Input Voltage, 0.6-10V Output Voltage, SOT-563"
+		(property "Description" "3A Synchronous Buck Converter, Adjustable Output Voltage, 3-17V Input, 0.6-10V Output"
 			(at 146.05 91.44 0)
 			(effects
 				(font
@@ -3585,7 +3585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 203.2 104.14 0)
 			(effects
 				(font
@@ -3594,7 +3594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5%, 0.1 W, AEC-Q200 Grade 0"
+		(property "Description" "5%, 0.1 W"
 			(at 203.2 104.14 0)
 			(effects
 				(font
@@ -3603,7 +3603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 203.2 104.14 0)
 			(effects
 				(font
@@ -3612,7 +3612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603JR-0751RL"
 			(at 203.2 104.14 0)
 			(effects
 				(font
@@ -3835,7 +3835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 101.6 104.14 0)
 			(effects
 				(font
@@ -3853,7 +3853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 101.6 104.14 0)
 			(effects
 				(font
@@ -3862,7 +3862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-0751KL"
 			(at 101.6 104.14 0)
 			(effects
 				(font
@@ -4055,7 +4055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 171.45 85.09 0)
 			(effects
 				(font
@@ -4064,7 +4064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1%, 0.1 W, AEC-Q200 Grade 0"
+		(property "Description" "1%, 0.1 W"
 			(at 171.45 85.09 0)
 			(effects
 				(font
@@ -4073,7 +4073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 171.45 85.09 0)
 			(effects
 				(font
@@ -4082,7 +4082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-0710KL"
 			(at 171.45 85.09 0)
 			(effects
 				(font
@@ -4239,7 +4239,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mm3z2v4st1-d.pdf"
 			(at 88.9 116.84 0)
 			(effects
 				(font
@@ -4248,7 +4248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener"
+		(property "Description" "Zener, 300mW, ±2%"
 			(at 88.9 116.84 0)
 			(effects
 				(font
@@ -4257,7 +4257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 88.9 116.84 90)
 			(effects
 				(font
@@ -4266,7 +4266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MM3Z5V6ST1G"
 			(at 88.9 116.84 90)
 			(effects
 				(font
@@ -4309,7 +4309,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "135k"
+		(property "Value" "120k"
 			(at 205.74 118.1099 0)
 			(effects
 				(font
@@ -4327,7 +4327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 203.2 116.84 0)
 			(effects
 				(font
@@ -4345,7 +4345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 203.2 116.84 0)
 			(effects
 				(font
@@ -4354,7 +4354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-07120KL"
 			(at 203.2 116.84 0)
 			(effects
 				(font
@@ -4625,7 +4625,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30k"
+		(property "Value" "26.7k"
 			(at 205.74 130.8099 0)
 			(effects
 				(font
@@ -4643,7 +4643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 203.2 129.54 0)
 			(effects
 				(font
@@ -4652,7 +4652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1%, 0.1 W, AEC-Q200 Grade 0"
+		(property "Description" "1%, 0.1 W"
 			(at 203.2 129.54 0)
 			(effects
 				(font
@@ -4661,7 +4661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 203.2 129.54 0)
 			(effects
 				(font
@@ -4670,7 +4670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-0726K7L"
 			(at 203.2 129.54 0)
 			(effects
 				(font
@@ -4891,7 +4891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 54.61 113.03 0)
 			(effects
 				(font
@@ -4900,7 +4900,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x07, script generated"
+		(property "Description" "Contact mating 0.236\" (6.00mm), post 0.120\" (3.05mm), insulation 0.098\" (2.50mm)"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 54.61 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "PH1-07-UA"
 			(at 54.61 113.03 0)
 			(effects
 				(font
@@ -5070,7 +5088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
 			(at 54.61 67.31 0)
 			(effects
 				(font
@@ -5079,7 +5097,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x07, script generated"
+		(property "Description" "Contact mating 0.236\" (6.00mm), post 0.120\" (3.05mm), insulation 0.098\" (2.50mm)"
+			(at 54.61 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 54.61 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "PH1-07-UA"
 			(at 54.61 67.31 0)
 			(effects
 				(font
